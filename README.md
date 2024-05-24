@@ -1,7 +1,7 @@
 ## Hi there, My name is Luiz Felipe Bessa 👋
--🔭 I am a student at University of Brasília
--⚡ I am studying Software Engineering and CyberSecurity
--📫 bessalfs@gmail.com
+##-🔭 I am a student at University of Brasília
+##-⚡ I am studying Software Engineering and CyberSecurity
+##-📫 bessalfs@gmail.com
 
 
 <!--
