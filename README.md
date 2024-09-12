@@ -2,7 +2,7 @@
 
 🔭 I am a student at University of Brasília
 
-⚡ I am studying Software Engineering and Data Analysis
+⚡ I am studying Software Engineering
 
 📫 bessalfs@gmail.com
 
